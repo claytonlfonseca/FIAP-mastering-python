@@ -1,2 +1,2 @@
-# fiap_mastering_python
+# FIAP - Mastering Python
 Curso Mastering Python realizado na FIAP
